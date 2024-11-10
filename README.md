@@ -9,7 +9,7 @@ It also contains the YOLO prototype we plan to use for getting the observation s
 
 All team members are students at Sardar Patel Institute of Technology.
 
-- [Jai Parameshwaran](https://github.com/paramj-sudo)
+- [Jai Parameshwaran](https://github.com/paramsj)
 - [Nikhil Vishwakarma](https://github.com/Vishwakarma-Nikhil)
 - [Vinayak Yadav](https://github.com/vinayakyadav2709)
 - [Yateen Vaviya](https://github.com/Yateen00)
