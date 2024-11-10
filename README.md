@@ -1,10 +1,9 @@
-````markdown
 # Traffic System Management at a Single Intersection Using PPO Reinforcement Learning
 
 ## Project Overview
 
-This project focuses on optimizing traffic flow at a single intersection using Proximal Policy Optimization (PPO) reinforcement learning. By training an AI model to manage signal timing dynamically, we aim to reduce vehicle wait times and improve overall traffic efficiency. This repository is a modified version of [sumo-rl by LucasAlegre](https://github.com/LucasAlegre/sumo-rl.git), customized to enhance its applicability to our objectives.
-It also contains the YOLO prototype we plan to use for getting the observation space
+This project focuses on optimizing traffic flow at a single intersection using Proximal Policy Optimization (PPO) reinforcement learning. By training an AI model to manage signal timing dynamically, we aim to reduce vehicle wait times and improve overall traffic efficiency. This repository is a modified version of [sumo-rl by LucasAlegre](https://github.com/LucasAlegre/sumo-rl.git), customized to enhance its applicability to our objectives.  
+It also contains the YOLO prototype we plan to use for getting the observation space.
 
 ## Team Members
 
@@ -88,4 +87,3 @@ To use the YOLO model, download the following files and place them inside the `Y
   ```
 
 Always ensure the correct virtual environment is active before running commands in each respective folder.
-````
