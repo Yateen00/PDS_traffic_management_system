@@ -87,3 +87,8 @@ To use the YOLO model, download the following files and place them inside the `Y
   ```
 
 Always ensure the correct virtual environment is active before running commands in each respective folder.
+
+
+## License
+
+This project, and the project it's derived from i.e [sumo-rl by LucasAlegre](https://github.com/LucasAlegre/sumo-rl.git) is released under the [MIT License](https://opensource.org/licenses/MIT).
