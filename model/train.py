@@ -18,10 +18,10 @@ from environment.env import SumoEnvironment
 if __name__ == "__main__":
     min_green = 5
     max_green = 60
-    epoches = 3000  # no of files
+    episode = 3000  # no of files
     seconds_per_episode = 3000
     steps = seconds_per_episode // (max_green - 10)
-    total_timesteps = epoches * steps
+    total_timesteps = episode * steps
 
     reward = CustomRewardFunction(
         max_green_duration=max_green, min_green_duration=min_green
